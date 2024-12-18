@@ -1,4 +1,4 @@
-// Objetos - Manipulación
+// Objetos - Manipulación.
 const producto = {
     nombre : "Tablet",
     precio: 300,
