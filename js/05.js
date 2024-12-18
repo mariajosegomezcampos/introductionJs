@@ -14,7 +14,7 @@ producto.disponible = true
 // Sino existe, lo va a añadir
 producto.imagen = 'imagen.jpg'
 
-// Eliminar propiedad
+// Eliminar propiedad.
 delete producto.precio
 
 console.log(producto)
